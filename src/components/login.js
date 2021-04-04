@@ -1,5 +1,5 @@
 import react from "react";
-function login() {
+function Login() {
   return (
     <form className="container mt-5 px-0 pt-5 w-50 border">
 
@@ -55,4 +55,4 @@ function login() {
   );
 }
 
-export default login;
+export default Login;
